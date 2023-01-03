@@ -34,18 +34,18 @@ class config {
 	static instagram = 'https://instagram.com/ricxyz13'
 	static prefixs = "multi"; //set ., #, and etc if you want single prefix example: const prefixs = '.'
 	static session = "session"; //default empty
-	static ownername = "E r i c D e v ?";
+	static ownername = "R y a n  D e v ?";
 	static self = false;
-	static packInfo = { packname: "@EicDev", author: "NoxyBotz-MD" };
+	static packInfo = { packname: "@RyanDev", author: "NoxyBotz-MD" };
 	static namebot = "NoxyBotz-MD";
 	static limit = 15
-	static owner = ["6281517621088@s.whatsapp.net", "6281314751439@s.whatsapp.net"];
+	static owner = ["6282252285143@s.whatsapp.net", "6285345899783@s.whatsapp.net"];
 	static line = {
 		owner: 'U8a37ce637bd9c801303b65564db5d48a',
 		token: '09mYp/dWJnYgNQltZ8luP29/TGhaURiNwjXfBnCCJSPjBMp2YQYA3bIA6Ag4PXJpoc2WZhKLmzcFyVIt/Jlkwo+WaPTPoc+42nu/BzW6/3xyru2yJbj+NA5dlqiL0Ys4w/p3W2XWZ4jtetl4G3rlRgdB04t89/1O/w1cDnyilFU=',
 	}
 	static telegram = {
-		owner: '1453538702',
+		owner: '62822522851432',
 		token: '5340742042:AAFtc8_iaBF6JY-xAPyf37x4aRcuWtQFbW8'
 	}
 }
